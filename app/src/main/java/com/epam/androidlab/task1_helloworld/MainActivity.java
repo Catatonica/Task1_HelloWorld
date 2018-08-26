@@ -17,7 +17,11 @@ public class MainActivity extends AppCompatActivity {
     private EditText mStringResource;
     private TextView mDisplayedText;
     
+<<<<<<< HEAD
     //mur
+=======
+    //lala
+>>>>>>> lala
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
