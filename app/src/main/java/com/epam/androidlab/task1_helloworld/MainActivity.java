@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText mStringResource;
     private TextView mDisplayedText;
+    
+    //lala
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
